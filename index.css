@@ -356,7 +356,7 @@ body {
     .footer__content {
         display: grid;
         grid-template-columns: 1fr 1fr 1fr;
-        grid-template-rows: 1fr 1fr;
+        grid-template-rows: 1fr 50px;
     }
 
     .footer__content div:nth-child(n+3) {
